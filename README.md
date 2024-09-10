@@ -5,14 +5,14 @@
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hola!+Soy+<José+Omar/>+%F0%9F%91%8B;Estudiante+Desarrollador+Front-End;Freelancer;Entusiaste+e+Inteligente" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hola!+Soy+<José+Omar/>+%F0%9F%91%8B;Estudiante+Desarrollador+Front-End;Freelancer;Entusiasta+e+Inteligente" alt="Headline" />
     </div>
 
 <h2>Sobre Mi</h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 Actualmente soy un estudiante apacionado por la programación 🤘🏼.
+- 🔭 Actualmente soy un estudiante apasionado por la programación 🤘🏼.
   
 - 🌱 Estoy aprendiendo JavaScript y React 👨‍💻.
   
